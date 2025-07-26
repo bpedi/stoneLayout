@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# VSCode settings 
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs and other temp files
+*.log
+*.tmp
+
+# Environment files
+.env
+
+# Calibration and test data 
+*.npz
+*.jpg
+*.png
+*.tif
+calibration_images/
+undistorted_images/
